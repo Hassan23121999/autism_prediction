@@ -181,3 +181,4 @@ Deployment
 - For simple deployments you can containerize this app (Docker) and run it on any host that supports Streamlit. For production consider decoupling the model into an API (FastAPI/Flask) and using a scalable front-end.
 
 
+
